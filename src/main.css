@@ -1,0 +1,33 @@
+h1,h2,h3,p,ul,a,body {
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+  font: inherit;
+  font-size: 100%;
+  font-family: "Helvetica Neue", "Helvetica", "sans-serif";
+  text-decoration: none;
+  color: black;
+}
+
+h1{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: #335577;
+}
+
+h2 {
+  text-align: center;
+  background-color: #333333;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+
+ul {
+  margin:0px 0px 0px 20px;
+  list-style-type: square;
+}
